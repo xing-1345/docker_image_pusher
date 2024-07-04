@@ -2,6 +2,7 @@ jeessy/ddns-go
 gdy666/lucky
 wiznote/wizserver
 rustdesk/rustdesk-server
+inglebard/retroarch-web
 nginx
 ghcr.io/daocloud/crproxy/crproxy:v0.8.0
 #m.daocloud.io/docker.io/moelin/1panel:latest
