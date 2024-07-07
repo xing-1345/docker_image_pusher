@@ -6,6 +6,7 @@ inglebard/retroarch-web
 nginx
 linuxserver/emulatorjs
 1995chen/dnf:centos5-2.1.4.fix1
+frooodle/s-pdf
 #gswxy/gswxy
 ghcr.io/daocloud/crproxy/crproxy:v0.8.0
 #m.daocloud.io/docker.io/moelin/1panel:latest
