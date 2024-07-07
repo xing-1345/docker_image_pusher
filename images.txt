@@ -4,6 +4,9 @@ wiznote/wizserver
 rustdesk/rustdesk-server
 inglebard/retroarch-web
 nginx
+linuxserver/emulatorjs
+1995chen/dnf
+gswxy/gswxy
 ghcr.io/daocloud/crproxy/crproxy:v0.8.0
 #m.daocloud.io/docker.io/moelin/1panel:latest
 #支持私库
