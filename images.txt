@@ -10,6 +10,12 @@ frooodle/s-pdf
 mysll/ps-offline
 jgraph/drawio
 keking/kkfileview:4.1.0
+hyper/docker-registry-web:latest
+dingdangdog/cashbook
+infrastlabs/docker-headless:full
+keking/kkfileview:v4.3.0
+ghcr.io/owo-network/deeplx:latest
+docker-registry-frontend
 #gswxy/gswxy
 ghcr.io/daocloud/crproxy/crproxy:v0.8.0
 #m.daocloud.io/docker.io/moelin/1panel:latest
