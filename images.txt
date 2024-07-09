@@ -8,6 +8,7 @@ linuxserver/emulatorjs
 1995chen/dnf:centos5-2.1.4.fix1
 frooodle/s-pdf
 ghcr.io/stirling-tools/s-pdf:alpha
+frooodle/s-pdf:Fat
 mysll/ps-offline
 jgraph/drawio
 keking/kkfileview:4.1.0
