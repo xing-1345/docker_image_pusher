@@ -7,13 +7,14 @@ nginx
 linuxserver/emulatorjs
 1995chen/dnf:centos5-2.1.4.fix1
 frooodle/s-pdf
+ghcr.io/stirling-tools/s-pdf:alpha
 mysll/ps-offline
 jgraph/drawio
 keking/kkfileview:4.1.0
 hyper/docker-registry-web:latest
 dingdangdog/cashbook
 infrastlabs/docker-headless:full
-keking/kkfileview:v4.3.0
+keking/kkfileview
 ghcr.io/owo-network/deeplx:latest
 docker-registry-frontend
 #gswxy/gswxy
