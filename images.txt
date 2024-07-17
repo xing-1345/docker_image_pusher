@@ -12,6 +12,7 @@ mysll/ps-offline
 jgraph/drawio
 keking/kkfileview:4.1.0
 hyper/docker-registry-web:latest
+library/registry
 dingdangdog/cashbook
 infrastlabs/docker-headless:full
 keking/kkfileview
