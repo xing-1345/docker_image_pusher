@@ -17,6 +17,7 @@ dingdangdog/cashbook
 infrastlabs/docker-headless:full
 keking/kkfileview
 ghcr.io/owo-network/deeplx:latest
+dingdangdog/cashbook
 #gswxy/gswxy
 ghcr.io/daocloud/crproxy/crproxy:v0.8.0
 #m.daocloud.io/docker.io/moelin/1panel:latest
